@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 My First Website - currently under development
-https://nicolescualexandru.github.io/My-First-Website/
+Visit here: https://nicolescualexandru.github.io/My-First-Website/
 
 You can use the [editor on GitHub](https://github.com/NicolescuAlexandru/alexandru-nicolescu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
